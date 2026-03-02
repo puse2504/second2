@@ -1,0 +1,11 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "Simple static site for deployment",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo \"No build step required\""
+  }
+}
